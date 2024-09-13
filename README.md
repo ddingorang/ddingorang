@@ -13,6 +13,9 @@ my name is sanghyun kim
 ### :ledger: notion
 https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4
 
+### 🎓 Capstone project
+YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
+
 ### 👻 Side project
 * <a href="https://blog.naver.com/ddingorang/223201570178">so-vits-svc) 1. AI 커버, 나도 한번 만들어 보자</a>
 * <a href="https://blog.naver.com/ddingorang/223202369031">so-vits-svc) 2. 누구의 목소리를 모델로 만들까?</a>
