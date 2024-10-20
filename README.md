@@ -2,10 +2,11 @@
 ## Hi there 👋
 My name is Sanghyun Kim!
 
-#### 🎵  NMIXX - 별별별
+#### 🎵  Billlie - trampoline
 ### :pencil2: currently studying...
-- javascript / typescript / React
-- 정보보안기사
+- typescript / React
+- 정보보안기사 필기합 -> 실기는 언제 하지..?
+- ADsP
 
 ### 🛠️ Tech Stack
 <img style="margin:2px" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>   
