@@ -2,7 +2,7 @@
 ## Hi there 👋
 My name is Sanghyun Kim!
 
-#### 🎵  Billlie - trampoline
+#### 🎵  Gravity - FIFTY FIFTY
 ### :pencil2: currently studying...
 - Spring
 - 정보보안기사 필기합 -> 실기는 언제 하지..?
@@ -14,7 +14,7 @@ My name is Sanghyun Kim!
 
 ### 🫣 Only Used Once...(or Twice)
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-### :ledger: notion
+### :ledger: Notion
 https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4
 
 ### 🎓 Capstone project
