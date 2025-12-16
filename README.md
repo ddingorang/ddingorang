@@ -5,11 +5,10 @@
 ## Hi there 👋
 My name is Sanghyun Kim!
 
-#### 🎵  little monster - ILLIT
-<br>
-
 ### :pencil2: currently studying...
- 정보보안기사 실기, 코테, 구처기 달달 외우기
+ 정보보안기사 실기
+
+<br>
 
 ### 🛠️ Tech Stack
 <img style="margin:2px" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -45,6 +44,13 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 <br>
 
 ![ddingorang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddingorang&count_private=true)
+
+#### 🎵 High Horse - NMIXX 🎵
+<a href="https://www.youtube.com/watch?v=vY4lGJJ2ZzI&list=RDvY4lGJJ2ZzI&start_radio=1">
+  <img src="https://img.youtube.com/vi/vY4lGJJ2ZzI/maxresdefault.jpg" width="450">
+</a>
+
+#### "Fe3O4: FORWARD" Story Film Part2: "High Horse" Performance Visualizer
 
 </div>
 <!--
