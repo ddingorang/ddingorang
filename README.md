@@ -6,8 +6,19 @@
 My name is Sanghyun Kim!
 
 ### :pencil2: currently studying...
- 정보보안기사 실기
+~~정보보안기사 실기~~
 
+**코틀린 찍먹(?)**
+
+Java와 조금 더 친해지는 중 😊
+ 
+
+### :book: My History
+| |... | 
+| --- | --- |
+| 18.03 ~ 24.08 | 인하대학교 / 정보통신공학 전공 |
+| 24.08 ~ 25.02 | Digital Hana路 5th / 우수 수료, 금융서비스개발 |
+| **26.01 ~ Now** | **SSAFY 15th / Java Track, 서울** |
 <br>
 
 ### 🛠️ Tech Stack
@@ -43,15 +54,24 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 
 <br>
 
-![ddingorang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddingorang&count_private=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sang3167)](https://solved.ac/sang3167)
 
-#### 🎵 High Horse - NMIXX 🎵
+<!--
+#### 🎵 High Horse - NMIXX
 <a href="https://www.youtube.com/watch?v=vY4lGJJ2ZzI&list=RDvY4lGJJ2ZzI&start_radio=1">
   <img src="https://img.youtube.com/vi/vY4lGJJ2ZzI/maxresdefault.jpg" width="450">
 </a>
 
-#### "Fe3O4: FORWARD" Story Film Part2: "High Horse" Performance Visualizer
+##### "Fe3O4: FORWARD" Story Film Part2: "High Horse" Performance Visualizer
+-->
 
+#### 🎵 Delulu - KiiiKiii
+<a href="https://www.youtube.com/watch?v=8vICvkDliYw">
+  <img src="https://img.youtube.com/vi/8vICvkDliYw/maxresdefault.jpg" width="500">
+</a>
+
+##### 'Delulu' Dance Practice
 </div>
 <!--
 **ddingorang/ddingorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
