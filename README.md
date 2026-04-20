@@ -51,11 +51,9 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
  <a href="https://blog.naver.com/ddingorang/223202369031">so-vits-svc) 2. 누구의 목소리를 모델로 만들까?</a>  
  <a href="https://blog.naver.com/ddingorang/223202566956">so-vits-svc) 3. 스테이씨 시은이 부르는 아이유-자장가</a>  
  <a href="https://github.com/ddingorang/dailybobplus">Slack API / AWS Lambda) 블로그 이미지 크롤링 Slack 봇 만들기(밥플러스)</a>  
-
+ <a href="https://github.com/ddingorang/nemonemo-front">vibecoding) "딸깍"으로 만드는 공유 스토리지 관리 시스템(네모네모)</a>
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sang3167)](https://solved.ac/sang3167)
 
 <!--
 #### 🎵 High Horse - NMIXX
@@ -73,6 +71,8 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 
 ##### 'Delulu' Dance Practice
 </div>
+
+
 <!--
 **ddingorang/ddingorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
