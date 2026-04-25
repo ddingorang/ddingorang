@@ -110,7 +110,7 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 </a> -->
 
 <a href="https://www.youtube.com/watch?v=gpaqpd22wI0">
-  <img width="540" height="340" alt="Image" src="https://github.com/user-attachments/assets/60ba20ec-ed57-4d32-b681-71a3bd988108" />
+  <img width="450" height="280" alt="Image" src="https://github.com/user-attachments/assets/60ba20ec-ed57-4d32-b681-71a3bd988108" />
 </a>
 
 ##### CELEBRATION (Karaoke ver.) — ㅋㅋㅋㅋ
