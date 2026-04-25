@@ -3,13 +3,7 @@
 ## Hi there 👋
 My name is **Sanghyun Kim**!
 #### ❤️‍🔥 겉은 쿨하게, 심장은 뜨겁게
-<br>
-
-## :pencil2: currently studying...
-- ~~정보보안기사 실기~~
-- AI Code Assist
-- Spring Security
-- Java와 조금 더 친해지는 중 😊
+:ledger: [정리 노트 (Notion)](https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4)
 <br>
 
 ## :book: My History
@@ -61,11 +55,6 @@ My name is **Sanghyun Kim**!
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
  
-<br>
-
-## :ledger: Notion
-[나의 정리 노트 →](https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4)
-
 <br>
 
 ## 🎓 Capstone project
