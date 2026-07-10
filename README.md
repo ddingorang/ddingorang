@@ -14,7 +14,7 @@ My name is **Sanghyun Kim**!
 | 2022.05 - 2022.12 | 네이버 커넥트재단 소프트웨어야 놀자 대학생 멘토 · 하반기 우수 수업 팀 🏆|
 | 2022.08 - 2022.12 | SK hynix 반도체 커리큘럼 · 이수 |
 | 2024.08 – 2025.02 | Digital Hana路 5기 · 금융서비스개발 · 우수 수료 🏆 |
-| 2026.01 – now |**삼성 청년 SW·AI 아카데미(SSAFY) 15기 · Java전공 Track · 서울** |
+| 2026.01 – now |**SSAFY 15기 · Java전공 Track · 서울 · 1학기 관통 최우수 프로젝트 🏆**|
 <br>
 
 ## 🛠️ Tech Stack
@@ -104,18 +104,16 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 
 <br>
 
-#### 🎵 CELEBRATION - LE SSERAFIM
+#### 🎵 Crescendo - NMIXX
 <!-- <a href="https://www.youtube.com/watch?v=8vICvkDliYw">
   <img src="https://img.youtube.com/vi/8vICvkDliYw/maxresdefault.jpg" width="500">
 </a> -->
 
-<a href="https://www.youtube.com/watch?v=gpaqpd22wI0">
-  <img width="450" height="280" alt="Image" src="https://github.com/user-attachments/assets/60ba20ec-ed57-4d32-b681-71a3bd988108" />
+<a href="https://www.youtube.com/watch?v=gUSdNGgO7wE&list=RDgUSdNGgO7wE">
+  <img width="651" height="360" alt="Image" src="https://github.com/user-attachments/assets/a302a8a5-c67e-4feb-b2ce-7d24596f0b03"/>
 </a>
 
-##### CELEBRATION (Karaoke ver.) — ㅋㅋㅋㅋ
 </div>
-
 
 <!--
 **ddingorang/ddingorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
