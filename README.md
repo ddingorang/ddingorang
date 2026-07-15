@@ -14,7 +14,7 @@ My name is **Sanghyun Kim**!
 | 2022.05 - 2022.12 | 네이버 커넥트재단 소프트웨어야 놀자 대학생 멘토 · 하반기 우수 수업 팀 🏆|
 | 2022.08 - 2022.12 | SK hynix 반도체 커리큘럼 · 이수 |
 | 2024.08 – 2025.02 | Digital Hana路 5기 · 금융서비스개발 · 우수 수료 🏆 |
-| 2026.01 – now |**SSAFY 15기 · Java전공 Track · 서울 · 1학기 관통 최우수 프로젝트 🏆**|
+| 2026.01 – now |**SSAFY 15기 · Java전공 Track 서울 · 1학기 관통 최우수 프로젝트 🏆**|
 <br>
 
 ## 🛠️ Tech Stack
@@ -78,7 +78,7 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
  
  [🍱 밥플러스](https://github.com/ddingorang/dailybobplus) — **블로그 이미지 크롤링 봇** — Slack API + AWS Lambda
  
- [📦 네모네모](https://github.com/ddingorang/nemonemo-front) — **"딸깍"으로 만드는 공유 스토리지 관리 시스템** — Claude Code / Gemini CLI
+ [📦 네모네모](https://github.com/ddingorang/nemonemo-backend) — **"딸깍"으로 만드는 공유 스토리지 관리 시스템** — Claude Code / Gemini CLI
  
 <br>
 
@@ -109,7 +109,7 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
   <img src="https://img.youtube.com/vi/8vICvkDliYw/maxresdefault.jpg" width="500">
 </a> -->
 
-<a href="https://www.youtube.com/watch?v=gUSdNGgO7wE&list=RDgUSdNGgO7wE">
+<a href="https://www.youtube.com/watch?v=-SEKt_0pdHM&list=RD-SEKt_0pdHM">
   <img width="651" height="360" alt="Image" src="https://github.com/user-attachments/assets/a302a8a5-c67e-4feb-b2ce-7d24596f0b03"/>
 </a>
 
