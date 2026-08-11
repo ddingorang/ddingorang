@@ -15,6 +15,7 @@ My name is **Sanghyun Kim**!
 | 2022.08 - 2022.12 | SK hynix 반도체 커리큘럼 · 이수 |
 | 2024.08 – 2025.02 | Digital Hana路 5기 · 금융서비스개발 · 우수 수료 🏆 |
 | 2026.01 – now |**SSAFY 15기 · Java전공 Track 서울 · 1학기 관통 최우수 프로젝트 🏆**|
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -66,7 +67,9 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 ## 🌱 Web Projects
 [🌏 우주하나](https://github.com/WouldYouHana/would-you-hana-FE) — **하이퍼 로컬 기반 고객-행원 소통 플랫폼**
 
-[💛 우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어를 위한 모임통장 관리 서비스**
+[💛 우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어를 위한 모임통장 관리 서비스** 🏆
+
+[✈️ triip](https://drive.google.com/file/d/1vSUGaZGs9NoInV-ayCedO2ExccQHMHZa/view?usp=sharing) — **생성형 AI 기반 관광정보/여행 플랫폼** 🏆
 
 <br>
 
