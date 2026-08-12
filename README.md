@@ -2,8 +2,17 @@
 
 ## Hi there 👋
 My name is **Sanghyun Kim**!
-#### ❤️‍🔥 겉은 쿨하게, 심장은 뜨겁게
-:ledger: [정리 노트 (Notion)](https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4)
+
+<br>
+
+## :star: This Is Me
+- :shamrock: 끊임없는 성장을 지향하는 **백엔드 개발자**가 되고 싶습니다.
+- :books: **백엔드 개발, 클라우드, DevOps**에 관심이 많습니다.
+- ✏️ 배우는 것을 좋아합니다. 새로운 것은 항상 저를 설레게 합니다.
+- :turtle: 속도는 느리더라도 묵묵히 앞으로 나아가는 거북이처럼 꾸준히
+- ❤️‍🔥 겉은 쿨하게, 심장은 뜨겁게
+- :ledger: [정리 노트 (Notion)](https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4)
+
 <br>
 
 ## :book: My History
@@ -37,11 +46,11 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 <br>
 
 ## 🌱 Web Projects
-[🌏 우주하나](https://github.com/WouldYouHana/would-you-hana-FE) — **하이퍼 로컬 기반 고객-행원 소통 플랫폼**
+🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼
 
-[💛 우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어를 위한 모임통장 관리 서비스** 🏆
+💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🏆
 
-[✈️ triip](https://drive.google.com/file/d/1vSUGaZGs9NoInV-ayCedO2ExccQHMHZa/view?usp=sharing) — **생성형 AI 기반 관광정보/여행 플랫폼** 🏆
+✈️ [triip](https://drive.google.com/file/d/1vSUGaZGs9NoInV-ayCedO2ExccQHMHZa/view?usp=sharing) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🏆
 
 <br>
 
@@ -51,9 +60,9 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
  - <a href="https://blog.naver.com/ddingorang/223202369031"> 2. 누구의 목소리를 모델로 만들까?</a>  
  - <a href="https://blog.naver.com/ddingorang/223202566956"> 3. 스테이씨 시은이 부르는 아이유-자장가</a>
  
- [🍱 밥플러스](https://github.com/ddingorang/dailybobplus) — **블로그 이미지 크롤링 봇** — Slack API + AWS Lambda
+ 🍱 [밥플러스](https://github.com/ddingorang/dailybobplus) — **블로그 이미지 크롤링 봇** — Slack API + AWS Lambda
  
- [📦 네모네모](https://github.com/ddingorang/nemonemo-backend) — **"딸깍"으로 만드는 공유 스토리지 관리 시스템** — Claude Code / Gemini CLI
+ 📦 [네모네모](https://github.com/ddingorang/nemonemo-backend) — **"딸깍"으로** 만드는 **공유 스토리지** 관리 시스템 — Claude Code / Gemini CLI
  
 <br>
 
