@@ -50,7 +50,7 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 
 💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🏆
 
-✈️ [triip](https://drive.google.com/file/d/1vSUGaZGs9NoInV-ayCedO2ExccQHMHZa/view?usp=sharing) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🏆
+✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🏆
 
 <br>
 
