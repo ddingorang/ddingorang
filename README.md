@@ -23,7 +23,7 @@ My name is **Sanghyun Kim**!
 | 2022.05 - 2022.12 | 네이버 커넥트재단 소프트웨어야 놀자 대학생 멘토 · 하반기 우수 수업 팀 🏆|
 | 2022.08 - 2022.12 | SK hynix 반도체 커리큘럼 · 이수 |
 | 2024.08 – 2025.02 | Digital Hana路 5기 · 금융서비스개발 · 우수 수료 🏆 |
-| 2026.01 – now |**SSAFY 15기 · Java전공 Track 서울 · 1학기 관통 최우수 프로젝트 🏆**|
+| 2026.01 – now |**SSAFY 15기 · Java전공 Track 서울 <br> · 관통 최우수 프로젝트 🥇· 공통 프로젝트 3위 🥉**|
 
 <br>
 
@@ -46,12 +46,25 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 <br>
 
 ## 🌱 Web Projects
-🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼
+🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼 — **BE, Infra**
+- 지역/동네/지점 기반 행원 답변 QnA 게시판
+- 행원 답변 보조 AI 챗봇
+- 영업점 찾기 / 상담 예약 기능
 
-💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🏆
+💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🥇 — **BE, Infra**
+- 모임통장 관리 — 입출금, 자동이체, 거래내역, 납입 여부 체크
+- 액티브 플래너 — 생성형 AI 기반 모임 일정 수립
+- 추억 앨범 — 모임 여정 간 사진 공유 / 수입, 지출 통계 확인
 
-✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🏆
+✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🥇 — **BE**
+- 지도 기반 여행 정보 탐색 — 관광지/음식점/숙박
+- AI 여행 일정 에이전트 — RAG, Tool Calling 응용
+- 소셜 플랫폼 — 커뮤니티/동행 모집 
 
+💻 [모두의 프롬프트]() — **주니어 개발자**를 위한 피드백 기반 **프롬프트 실력 향상** 서비스 🥉 — **Infra**
+- 프롬프트 정성/정량 평가 — 프롬프트 피드백 및 빌드/테스트
+- 릴레이 게임 모드 — 실시간 음성 채팅 및 소통
+- 랭킹 — 최소 비용/토큰 소비 프롬프트 공유 및 확인
 <br>
 
 ## 👻 Side projects
