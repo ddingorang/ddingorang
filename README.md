@@ -5,13 +5,18 @@ My name is **Sanghyun Kim**!
 
 <br>
 
+✉️ **Email** : sang3167@gmail.com
+
+:ledger: **정리 노트** : [Notion](https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4)
+
+<br>
+
 ## :star: This Is Me
 - :shamrock: 끊임없는 성장을 지향하는 **백엔드 개발자**가 되고 싶습니다.
 - :books: **백엔드, 클라우드, DevOps**에 관심이 많습니다.
 - ✏️ 배우는 것을 좋아합니다. 새로운 것은 항상 저를 설레게 합니다.
 - :turtle: 속도는 느리더라도 묵묵히 앞으로 나아가는 거북이처럼 꾸준히
 - ❤️‍🔥 겉은 쿨하게, 심장은 뜨겁게
-- :ledger: [정리 노트 (Notion)](https://equable-zone-715.notion.site/f621407a40064e319d982e20b49a9456?pvs=4)
 
 <br>
 
@@ -42,38 +47,51 @@ My name is **Sanghyun Kim**!
 <br>
 
 ## 🌱 Web Projects
-🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼 — **BE, Infra**
+### 🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼
+**Role · Backend / Infra · 2024.11 - 2024.12**
+
+`Spring Boot` `JPA` `MySQL` `Docker` `Jenkins` `AWS EC2 / S3 / Amplify`
 - 지역/동네/지점 기반 행원 답변 QnA 게시판
 - 행원 답변 보조 AI 챗봇
 - 영업점 찾기 / 상담 예약 기능
 
-💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🥇 — **BE, Infra**
+### 💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🥇
+**Role · Backend / Infra · 2025.01 - 2025.02**
+
+`Spring Boot` `FastAPI` `SqlAlchemy` `PostgreSQL` `Redis` `Docker` `Jenkins` `AWS EC2` `Vercel`
 - 모임통장 관리 — 입출금, 자동이체, 거래내역, 납입 여부 체크
 - 액티브 플래너 — 생성형 AI 기반 모임 일정 수립
 - 추억 앨범 — 모임 여정 간 사진 공유 / 수입, 지출 통계 확인
 
-✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🥇 — **BE**
-- 지도 기반 여행 정보 탐색 — 관광지/음식점/숙박
+### ✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🥇 
+**Role · Backend · 2026.06**
+
+`Spring Boot / Batch / AI` `PostgreSQL` `Redis / Vector Stack` `RabbitMQ` `OAuth2` `OpenAI API`
+- 지도 중심 여행 정보 탐색 — 관광지/음식점/숙박
 - AI 여행 일정 에이전트 — RAG, Tool Calling 응용
 - 소셜 플랫폼 — 커뮤니티/동행 모집 
 
-💻 [모두의 프롬프트]() — **주니어 개발자**를 위한 피드백 기반 **프롬프트 실력 향상** 서비스 🥉 — **Infra**
-- 프롬프트 정성/정량 평가 — 프롬프트 피드백 및 빌드/테스트
-- 릴레이 게임 모드 — 실시간 음성 채팅 및 소통
+### 💻 [모두의 프롬프트](https://github.com/ddingorang/itsourprompt) — **주니어 개발자**를 위한 피드백 기반 **프롬프트 실력 향상** 서비스 🥉
+**Role · Infra · 2026.07 - 2026.08**
+
+`Spring Boot / AI` `jooQ` `RabbitMQ` `WebRTC / COTURN` `AWS ECR / Route 53` `OpenAI Agent`
+- 프롬프트 정성/정량 평가 — 프롬프트 피드백 및 결과 코드 빌드/테스트
+- 릴레이 게임 모드 — WebRTC 실시간 음성 채팅 및 소통
 - 랭킹 — 최소 비용/토큰 소비 프롬프트 공유 및 확인
 <br>
 
 ## 👻 Side projects
-🎵 **AI 커버 만들기** — so-vits-svc
+🎵 **AI 커버 만들기** — `so-vits-svc`
  - <a href="https://blog.naver.com/ddingorang/223201570178"> 1. AI 커버, 나도 한번 만들어 보자</a>  
  - <a href="https://blog.naver.com/ddingorang/223202369031"> 2. 누구의 목소리를 모델로 만들까?</a>  
  - <a href="https://blog.naver.com/ddingorang/223202566956"> 3. 스테이씨 시은이 부르는 아이유-자장가</a>
  
- 🍱 [밥플러스](https://github.com/ddingorang/dailybobplus) — **블로그 이미지 크롤링 봇** — Slack API + AWS Lambda
+ 🍱 [밥플러스](https://github.com/ddingorang/dailybobplus) — **블로그 이미지 크롤링 Slack 봇** — `Slack API` `AWS Lambda`
  
- 📦 [네모네모](https://github.com/ddingorang/nemonemo-backend) — **"딸깍"으로** 만드는 **공유 스토리지** 관리 시스템 — Claude Code / Gemini CLI
+ 📦 [네모네모](https://github.com/ddingorang/nemonemo-backend) — **"딸깍"으로** 만드는 **공유 스토리지** 관리 시스템 — `Claude Code` `Gemini CLI`
 
-
+ 🐿️ [dotori-ansible](https://github.com/ddingorang/dotori-ansible) — Playbook **실행 한큐**로 배포 서버 쉽게 세팅 / 설정하기 — `Ansible`
+ 
  <br>
 
 ## 🎓 Capstone project
