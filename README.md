@@ -78,6 +78,14 @@ My name is **Sanghyun Kim**!
 - 프롬프트 정성/정량 평가 — 프롬프트 피드백 및 결과 코드 빌드/테스트
 - 릴레이 게임 모드 — WebRTC 실시간 음성 채팅 및 소통
 - 랭킹 — 최소 비용/토큰 소비 프롬프트 공유 및 확인
+
+### 🌰 [도토리](https://github.com/ddingorang) —  **가상 경제 생태계** 기반 어린이 교육 앱 서비스
+**Role · Backend / Infra · 2026.08 - 2026.09**
+
+`Spring Boot` `React / Expo` `JPA` `PostgreSQL` `Redis` `RabbitMQ` `Firebase Cloud Messaging` `AWS` `Ansible` `OpenAI Agent`
+- 가정별 온보딩 기반 가상 경제 생태계 세팅
+- 금융망 API 연결 — 현금-포인트 간 전환
+- 저축, 투자, 미션, 상점, 퀴즈 기능 — 재화의 수입과 지출을 경험
 <br>
 
 ## 👻 Side projects
