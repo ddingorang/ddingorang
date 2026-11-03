@@ -40,7 +40,7 @@ My name is **Sanghyun Kim**!
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white) |
 | **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=Spring&logoColor=white)|
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)|
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white) <br> ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)|
 | **Middleware** | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white) ![Apache_Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)|
 | **Used Once..** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white) ![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=flat-square&logo=Claude&logoColor=white) |
 
@@ -50,7 +50,7 @@ My name is **Sanghyun Kim**!
 ### 🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼
 **Role · Backend / Infra · 2024.11 - 2024.12**
 
-`Spring Boot` `JPA` `MySQL` `Docker` `Jenkins` `AWS EC2 / S3 / Amplify`
+`Spring Boot` `JPA` `MySQL` `Docker` `Jenkins` `AWS EC2 / S3 / Amplify` `OpenAI LLM`
 - 지역/동네/지점 기반 행원 답변 QnA 게시판
 - 행원 답변 보조 AI 챗봇
 - 영업점 찾기 / 상담 예약 기능
@@ -66,7 +66,7 @@ My name is **Sanghyun Kim**!
 ### ✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🥇 
 **Role · Backend · 2026.06**
 
-`Spring Boot / Batch / AI` `PostgreSQL` `Redis / Vector Stack` `RabbitMQ` `OAuth2` `OpenAI API`
+`Spring Boot / Batch / AI` `PostgreSQL` `Redis / Vector Stack` `RabbitMQ` `OAuth2` `OpenAI API` `Kakao Navi API`
 - 지도 중심 여행 정보 탐색 — 관광지/음식점/숙박
 - AI 여행 일정 에이전트 — RAG, Tool Calling 응용
 - 소셜 플랫폼 — 커뮤니티/동행 모집 
@@ -83,7 +83,7 @@ My name is **Sanghyun Kim**!
 **Role · Backend / Infra · 2026.08 - 2026.09**
 
 `Spring Boot` `React / Expo` `JPA` `PostgreSQL` `Redis` `RabbitMQ` `Firebase Cloud Messaging` `AWS` `Ansible` `OpenAI Agent`
-- 가정별 온보딩 기반 가상 경제 생태계 세팅
+- 가정별 온보딩 기반 AI 가상 경제 생태계 세팅
 - 금융망 API 연결 — 현금-포인트 간 전환
 - 저축, 투자, 미션, 상점, 퀴즈 기능 — 재화의 수입과 지출을 경험
 <br>
@@ -116,33 +116,19 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 - 데이터분석준전문가 - 24.11.29
 - PCCP(Python, lv.2) - 25.06.14
 - 한국사능력검정시험(1급) - 21.09.24
-
-
-<!--
-#### 🎵 High Horse - NMIXX
-<a href="https://www.youtube.com/watch?v=vY4lGJJ2ZzI&list=RDvY4lGJJ2ZzI&start_radio=1">
-  <img src="https://img.youtube.com/vi/vY4lGJJ2ZzI/maxresdefault.jpg" width="450">
-</a>
-
-##### "Fe3O4: FORWARD" Story Film Part2: "High Horse" Performance Visualizer
--->
+- TOEIC(945) - 25.08.31
 
 <br>
 
-<!--
-#### 🎵 Crescendo - NMIXX
-<!-- <a href="https://www.youtube.com/watch?v=8vICvkDliYw">
-  <img src="https://img.youtube.com/vi/8vICvkDliYw/maxresdefault.jpg" width="500">
-</a> -->
-
-#### 🎵 Switchblade (Feat. Ty Dolla $ign) - aespa
-<!-- <a href="https://www.youtube.com/watch?v=8vICvkDliYw">
+#### 🎵 Inside Out - RESCENE
+<!-- <a href="https://www.youtube.com/watch?v=nrBsmCzbE0U">
   <img src="https://img.youtube.com/vi/8vICvkDliYw/maxresdefault.jpg" width="500">
 </a> -->
 
 <a href="https://www.youtube.com/watch?v=xcFbyuzd9S8&list=RDxcFbyuzd9S8">
- <img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/478ef05d-970d-4453-9e03-bdcc55bb2524" />
+ <img width="650" height="350" alt="스크린샷" src="https://github.com/user-attachments/assets/f6c4c90b-c7e1-43dc-837c-33004d515893" />
 </a>
+
 
 </div>
 
