@@ -13,22 +13,23 @@ My name is **Sanghyun Kim**!
 
 ## :star: This Is Me
 - :shamrock: 끊임없는 성장을 지향하는 **백엔드 개발자**가 되고 싶습니다.
+- :mag: 반복되는 작은 불편을 그냥 넘기지 않고, **자동화와 구조 개선**으로 풀어 갑니다.
 - :books: **백엔드, 클라우드, DevOps**에 관심이 많습니다.
-- ✏️ 배우는 것을 좋아합니다. 새로운 것은 항상 저를 설레게 합니다.
+- ✏️ 새로운 기술을 직접 써 보며 배우는 것을 좋아합니다.
 - :turtle: 속도는 느리더라도 묵묵히 앞으로 나아가는 거북이처럼 꾸준히
 - ❤️‍🔥 겉은 쿨하게, 심장은 뜨겁게
 
 <br>
 
-## :book: My History
+## :book: History
 
 | 기간 | 내용 |
 | --- | --- |
-| 2018.03 – 2024.08 | 인하대학교 · 정보통신공학 전공 👨‍🎓 |
-| 2022.05 - 2022.12 | 네이버 커넥트재단 소프트웨어야 놀자 대학생 멘토 · 하반기 우수 수업 팀 🏆|
-| 2022.08 - 2022.12 | SK hynix 반도체 커리큘럼 · 이수 |
-| 2024.08 – 2025.02 | Digital Hana路 5기 · 금융서비스개발 · 우수 수료 🏆 |
-| **2026.01 – now** |**SSAFY 15기 · Java전공 Track 서울 <br> · 관통 프로젝트 최우수 🥇· 공통 프로젝트 우수 🥉**|
+| **2026.01 – now** | **삼성 청년 SW 아카데미 (SSAFY) 15기** · Java 전공 트랙 <br> 관통 프로젝트 최우수 🥇 · 공통 프로젝트 우수 🥉 |
+| 2024.08 – 2025.02 | **Digital Hana路 5기** · 금융서비스개발 과정 · 우수 수료 🏆 |
+| 2022.08 – 2022.12 | SK hynix 반도체 커리큘럼 이수 |
+| 2022.05 – 2022.12 | 네이버 커넥트재단 '소프트웨어야 놀자' 대학생 멘토 · 하반기 우수 수업 팀 🏆 |
+| 2018.03 – 2024.08 | 인하대학교 정보통신공학과 졸업 🎓 |
 
 <br>
 
@@ -46,46 +47,50 @@ My name is **Sanghyun Kim**!
 
 <br>
 
-## 🌱 Web Projects
-### 🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) — **하이퍼 로컬** 기반 **고객-행원 소통** 플랫폼
-**Role · Backend / Infra · 2024.11 - 2024.12**
+## 🌱 Projects
 
-`Spring Boot` `JPA` `MySQL` `Docker` `Jenkins` `AWS EC2 / S3 / Amplify` `OpenAI LLM`
-- 지역/동네/지점 기반 행원 답변 QnA 게시판
-- 행원 답변 보조 AI 챗봇
-- 영업점 찾기 / 상담 예약 기능
+### 🌰 도토리 · **가상 경제 생태계** 기반 어린이 금융 교육 앱
+> **Backend · Infra** · 2026.08 – 2026.09 · 6인 팀
+ 
+`Spring Boot` `JPA` `PostgreSQL` `Redis` `RabbitMQ` `FCM` `AWS` `Ansible` `React Native (Expo)`
+ 
+- 가정별 온보딩으로 AI가 가상 경제 환경을 설정
+- 금융망 API 연동으로 현금과 포인트 간 전환
+- 저축, 투자, 미션, 상점, 퀴즈로 수입과 지출을 경험
+### 💻 [모두의 프롬프트](https://github.com/ddingorang/itsourprompt) · 주니어 개발자를 위한 **프롬프트 실력 향상** 서비스 🥉
+> **Infra** · 2026.07 – 2026.08 · 6인 팀
+ 
+`Spring Boot` `Spring AI` `jOOQ` `RabbitMQ` `Docker Compose` `Jenkins` `AWS ECR / Route 53` `Ansible` `WebRTC`
+ 
+- **AI 에이전트 설계** — 범용 프레임워크 대신 `list_files` · `read_file` · `edit_file` 세 가지 도구만 가진 제한형 에이전트로 공정한 채점 보장
+- **채점 워커 격리** — 언어별 큐를 구독하는 워커를 백엔드와 분리하고, DB 자격증명 없이 큐 접속 정보만 부여
+- **배포 자동화** — GitLab Webhook → Jenkins → ECR로 백엔드·프론트엔드 독립 배포
+- **릴레이 모드** - COTURN 활용, 유저간 실시간 음성/텍스트 채팅
+### ✈️ [Triip](https://github.com/ddingorang/letsgotriip) · **생성형 AI** 기반 여행 플랫폼 🥇
+> **팀장 · Backend** · 2026.06 · 2인 팀
+ 
+`Spring Boot` `Spring Batch` `Spring AI` `MySQL` `MongoDB` `Redis Vector Store` `RabbitMQ` `OAuth2`
+ 
+- **환각에 강한 일정 생성** — 실제 관광 데이터로 후보를 먼저 수집하고, AI 결과를 서버에서 다시 검증하는 파이프라인
+- **실행형 AI 어시스턴트** — RAG와 대화 기억, Tool Calling 통해 자연어 요청으로 실제 일정 수정/삭제 액션
+- **소셜 기능** — 동행 모집과 실시간 채팅 (STOMP over RabbitMQ)
+### 💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) · **액티브 시니어**를 위한 모임통장 서비스 🥇
+> **Backend Lead · Infra** · 2025.01 – 2025.02 · 6인 팀
+ 
+`Spring Boot` `FastAPI` `PostgreSQL` `Redis` `Docker` `Jenkins` `AWS EC2`
+ 
+- **동시 출금 정합성 확보** — 동시 요청 재현 테스트로 문제를 찾고, 비관적 락과 조건부 UPDATE로 잔액 오류 차단
+- **모의 계정계 시스템** — 금융결제원 API 명세를 참고한 FastAPI 기반 계정계로 입출금, 자동이체, 거래내역 처리
+- **코드 아키텍처 개선** — 헥사고날 아키텍처로 전환해 비즈니스 로직과 외부 의존성 분리
 
-### 💛 [우아하나](https://github.com/woo-ah-hana/woo-ah-hana-web) — **액티브 시니어**를 위한 **모임통장** 관리 서비스 🥇
-**Role · Backend / Infra · 2025.01 - 2025.02**
-
-`Spring Boot` `FastAPI` `SqlAlchemy` `PostgreSQL` `Redis` `Docker` `Jenkins` `AWS EC2` `Vercel`
-- 모임통장 관리 — 입출금, 자동이체, 거래내역, 납입 여부 체크
-- 액티브 플래너 — 생성형 AI 기반 모임 일정 수립
-- 추억 앨범 — 모임 여정 간 사진 공유 / 수입, 지출 통계 확인
-
-### ✈️ [Triip](https://github.com/ddingorang/letsgotriip) — **생성형 AI** 기반 **관광정보/여행** 플랫폼 🥇 
-**Role · Backend · 2026.06**
-
-`Spring Boot / Batch / AI` `PostgreSQL` `Redis / Vector Stack` `RabbitMQ` `OAuth2` `OpenAI API` `Kakao Navi API`
-- 지도 중심 여행 정보 탐색 — 관광지/음식점/숙박
-- AI 여행 일정 에이전트 — RAG, Tool Calling 응용
-- 소셜 플랫폼 — 커뮤니티/동행 모집 
-
-### 💻 [모두의 프롬프트](https://github.com/ddingorang/itsourprompt) — **주니어 개발자**를 위한 피드백 기반 **프롬프트 실력 향상** 서비스 🥉
-**Role · Infra · 2026.07 - 2026.08**
-
-`Spring Boot / AI` `jooQ` `RabbitMQ` `WebRTC / COTURN` `AWS ECR / Route 53` `OpenAI Agent`
-- 프롬프트 정성/정량 평가 — 프롬프트 피드백 및 결과 코드 빌드/테스트
-- 릴레이 게임 모드 — WebRTC 실시간 음성 채팅 및 소통
-- 랭킹 — 최소 비용/토큰 소비 프롬프트 공유 및 확인
-
-### 🌰 [도토리](https://github.com/ddingorang) —  **가상 경제 생태계** 기반 어린이 교육 앱 서비스
-**Role · Backend / Infra · 2026.08 - 2026.09**
-
-`Spring Boot` `React / Expo` `JPA` `PostgreSQL` `Redis` `RabbitMQ` `Firebase Cloud Messaging` `AWS` `Ansible` `OpenAI Agent`
-- 가정별 온보딩 기반 AI 가상 경제 생태계 세팅
-- 금융망 API 연결 — 현금-포인트 간 전환
-- 저축, 투자, 미션, 상점, 퀴즈 기능 — 재화의 수입과 지출을 경험
+### 🌏 [우주하나](https://github.com/ddingorang/would-you-hana-BE) · **하이퍼 로컬** 기반 고객-행원 소통 플랫폼
+> **Backend · Infra** · 2024.11 – 2024.12
+ 
+`Spring Boot` `JPA` `MySQL` `Docker` `Jenkins` `AWS EC2 / S3 / Amplify` `OpenAI API`
+ 
+- 지역, 동네, 지점 단위 행원 답변 Q&A 게시판
+- 행원 답변을 돕는 AI 챗봇 - 파인튜닝 모델
+- 영업점 찾기와 상담 예약
 <br>
 
 ## 👻 Side projects
@@ -121,11 +126,7 @@ YOLO와 LSTM 모델을 활용한 이상행동 감지 인공지능 API
 <br>
 
 #### 🎵 Inside Out - RESCENE
-<!-- <a href="https://www.youtube.com/watch?v=nrBsmCzbE0U">
-  <img src="https://img.youtube.com/vi/8vICvkDliYw/maxresdefault.jpg" width="500">
-</a> -->
-
-<a href="https://www.youtube.com/watch?v=xcFbyuzd9S8&list=RDxcFbyuzd9S8">
+<a href="https://www.youtube.com/watch?v=nrBsmCzbE0U">
  <img width="650" height="350" alt="스크린샷" src="https://github.com/user-attachments/assets/f6c4c90b-c7e1-43dc-837c-33004d515893" />
 </a>
 
